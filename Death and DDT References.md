@@ -39,7 +39,7 @@ Diamond, E. (2008). The Myth of the “Pesticide Menace”. In Cronon, W. (Autho
  White, C. (1984). The Beginning of an Endangered Species' Comeback: The Peregrine Falcon.
  _The American Biology Teacher_, 46(4), 212-220. doi:10.2307/4447818
  
- | Page   | Description |
+ | **Page**   | **Description** |
 | ------ | ----------- |
 | [0.](https://github.com/aaronmcgough/Midterm-Project#readme)     | Home |
 | [1.](https://github.com/aaronmcgough/Midterm-Project/blob/main/Death_and_DDT_Document.md)     | Death and DDT Document. |
