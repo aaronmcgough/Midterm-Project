@@ -275,6 +275,12 @@ change he wanted. _The Peregrine_ is what resulted. In the modern age of extinct
 important to not shy away from the death that is being caused by humanity's greed. Instead, our
 species needs to look at what is happening and decide what it wants to do about it.  
 
-
+| Page   | Description |
+| ------ | ----------- |
+| [0.](https://github.com/aaronmcgough/Midterm-Project#readme)     | Home |
+| [2.](https://github.com/aaronmcgough/Midterm-Project/blob/main/Death%20and%20DDT%20References)     | Death and DDT References. |
+| [3.](https://github.com/aaronmcgough/Midterm-Project/blob/main/The%20Peregrine)     | The Peregrine. |
+| [4.](https://github.com/aaronmcgough/Midterm-Project/blob/main/Block%20of%20Code)     | Block of code. |
+| [5.](https://github.com/aaronmcgough/Midterm-Project/blob/main/Peregrines)     | Peregrines. |
 
 
