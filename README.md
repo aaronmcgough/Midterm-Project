@@ -26,10 +26,10 @@ ___
 
 | Page   | Description |
 | ------ | ----------- |
-| [1.]     | Death and DDT Document. |
-| [2.]     | Death and DDT References. |
-| [3.]     | The Peregrine. |
-| [4.]     | Block of code. |
-| [5.]     | Peregrines. |
+| [1.](https://github.com/aaronmcgough/Midterm-Project/blob/main/Death%20and%20DDT%20Document)     | Death and DDT Document. |
+| [2.](https://github.com/aaronmcgough/Midterm-Project/blob/main/Death%20and%20DDT%20References)     | Death and DDT References. |
+| [3.](https://github.com/aaronmcgough/Midterm-Project/blob/main/The%20Peregrine)     | The Peregrine. |
+| [4.](https://github.com/aaronmcgough/Midterm-Project/blob/main/Block%20of%20Code)     | Block of code. |
+| [5.](https://github.com/aaronmcgough/Midterm-Project/blob/main/Peregrines)     | Peregrines. |
 
 
