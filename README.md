@@ -12,6 +12,6 @@ ___
 | [2.](https://github.com/aaronmcgough/Midterm-Project/blob/main/Death%20and%20DDT%20References.md)     | Death and DDT References. |
 | [3.](https://github.com/aaronmcgough/Midterm-Project/blob/main/The%20Peregrine.md)     | The Peregrine. |
 | [4.](https://github.com/aaronmcgough/Midterm-Project/blob/main/Block%20of%20Code.md)     | Block of code. |
-| [5.](https://github.com/aaronmcgough/Midterm-Project/blob/main/Peregrines)     | Peregrines. |
+| [5.](https://github.com/aaronmcgough/Midterm-Project/blob/main/Peregrines.md)     | Peregrines. |
 
 
