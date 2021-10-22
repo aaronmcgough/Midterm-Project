@@ -3,6 +3,7 @@
 
 **This is my Midterm Project for IT 1000**
 ___
+[Aaron McGough](https://www.linkedin.com/in/aaron-mcgough/)
 * Links to other web sites.
 * One or more images that are hosted in the GitHub repo.
 * One or more images that are hosted elsewhere on the web.
