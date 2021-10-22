@@ -1,4 +1,4 @@
-##The Peregrine by J.A. Baker
+## The Peregrine by J.A. Baker
 
 ![The Peregrine](https://cdn.shopify.com/s/files/1/0726/9203/products/the-peregrine_1024x1024.jpg?v=1528394312)
 
