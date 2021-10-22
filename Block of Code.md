@@ -174,7 +174,7 @@ namespace MidtermProject
     }
 }
 ```
-| Page   | Description |
+| **Page**  | **Description** |
 | ------ | ----------- |
 | [0.](https://github.com/aaronmcgough/Midterm-Project#readme)     | Home |
 | [1.](https://github.com/aaronmcgough/Midterm-Project/blob/main/Death%20and%20DDT%20Document)     | Death and DDT Document. |
