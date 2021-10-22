@@ -177,7 +177,7 @@ namespace MidtermProject
 | **Page**  | **Description** |
 | ------ | ----------- |
 | [0.](https://github.com/aaronmcgough/Midterm-Project#readme)     | Home |
-| [1.](https://github.com/aaronmcgough/Midterm-Project/blob/main/Death%20and%20DDT%20Document)     | Death and DDT Document. |
-| [2.](https://github.com/aaronmcgough/Midterm-Project/blob/main/Death%20and%20DDT%20References)     | Death and DDT References. |
-| [3.](https://github.com/aaronmcgough/Midterm-Project/blob/main/The%20Peregrine)     | The Peregrine. |
-| [5.](https://github.com/aaronmcgough/Midterm-Project/blob/main/Peregrines)     | Peregrines. |
+| [1.](https://github.com/aaronmcgough/Midterm-Project/blob/main/Death%20and%20DDT%20Document.md)     | Death and DDT Document. |
+| [2.](https://github.com/aaronmcgough/Midterm-Project/blob/main/Death%20and%20DDT%20References.md)     | Death and DDT References. |
+| [3.](https://github.com/aaronmcgough/Midterm-Project/blob/main/The%20Peregrine.md)     | The Peregrine. |
+| [5.](https://github.com/aaronmcgough/Midterm-Project/blob/main/Peregrines.md)     | Peregrines. |
