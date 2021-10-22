@@ -1,5 +1,5 @@
-#Death and DDT
-###Aaron McGough
+#Death and DDT 
+###Aaron McGough 
 
 ##Death and DDT in *The Peregrine* (1967)###. 
 When we see a dead animal, we often look away. The animal could be a family pet or deer
