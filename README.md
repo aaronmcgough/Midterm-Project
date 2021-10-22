@@ -5,7 +5,6 @@
 ___
 [Aaron McGough](https://www.linkedin.com/in/aaron-mcgough/)
 * One or more images that are hosted in the GitHub repo.
-* One or more images that are hosted elsewhere on the web.
 
 | **Page**   | **Description** |
 | ------ | ----------- |
