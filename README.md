@@ -1,22 +1,13 @@
 # Midterm-Project
 ---
 
-*This is my Midterm Project for IT 1000*
+**This is my Midterm Project for IT 1000**
 ___
-* Paragraphs.
 * Links to other web sites.
 * One or more images that are hosted in the GitHub repo.
 * One or more images that are hosted elsewhere on the web.
-* Some text that is bolded.
-* A block of code.
-* Paragraphs.
-* Links to other web sites.
-* One or more images that are hosted in the GitHub repo.
-* One or more images that are hosted elsewhere on the web.
-* Some text that is bolded.
-* A block of code.
 
-| Page   | Description |
+| **Page**   | **Description** |
 | ------ | ----------- |
 | [1.](https://github.com/aaronmcgough/Midterm-Project/blob/main/Death_and_DDT_Document.md)     | Death and DDT Document. |
 | [2.](https://github.com/aaronmcgough/Midterm-Project/blob/main/Death%20and%20DDT%20References.md)     | Death and DDT References. |
